@@ -24,3 +24,5 @@ TestResults.xml
 # Input/Output directories
 PHOTO/
 OUT/
+
+*.swp
